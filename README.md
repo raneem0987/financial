@@ -108,7 +108,7 @@ Financial Dashboard/
 ## 📸 Dashboard Preview
 
 ```
-fnc.png
+![Finance Dashboard](fnc.png)
 ```
 
 ---
